@@ -1,6 +1,5 @@
 # LinkedIn Learning Downloader
 
-#### Based on [mclmza's linkedin-learning-downloader](https://github.com/mclmza/linkedin-learning-downloader)
 
 Asynchronous scraping tool to fetch LinkedIn-learning's courses videos.
 
@@ -20,7 +19,12 @@ Make sure your LinkedIn account is **NOT** protected with 2FA
 #### Usage
 > pip install -r requirements.txt
 
+if in ubuntu try using:
+> pip3 install -r requirements.txt
+
+
 Copy and edit `config.py.example` (username, password, and courses slugs)
+And Rename it `config.py`
 
 ```Course's slug can be obtained using its url
 e.g:
@@ -31,9 +35,3 @@ SLUG: python-advanced-design-pattern
 
 > python linkedin_learning.py
 
-#### TODO
-
- - ~~Add Subtitles~~
- - Add Description
- - Use argparser
- - Fetch courses from bookmarks
