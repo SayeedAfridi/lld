@@ -2,6 +2,47 @@
 
 COURSES = [
 
+#*** BEcome a Ethical Hacker ***
+	#'ethical-hacking-introduction-to-ethical-hacking',
+	#'introduction-to-web-design-and-development', #have previous
+	#'learning-cryptography-and-network-security', #EX_files_Crypto And Glossary_Learning_Cryptography
+	#'troubleshooting-your-network-with-wireshark', #EX_Files_Wireshark
+	#'learning-bash-scripting', #Have previous
+	#'learning-kali-linux',
+	#'ethical-hacking-footprinting-and-reconnaissance',
+	#'ethical-hacking-denial-of-service-2',
+	#'ethical-hacking-system-hacking',
+	#'ethical-hacking-scanning-networks', #EX_Files_Ethical_Hacking_Scanning_Network
+	#'ethical-hacking-enumeration', #EX_Files_EthicalHAcking
+	#'ethical-hacking-social-engineering',
+	#'ethical-hacking-sniffers',
+	#'ethical-hacking-session-hijacking', #EX_Files_EthicalHAcking_Hijacking_Upd
+	#'ethical-hacking-viruses-and-worms',
+	#'ethical-hacking-wireless-networks',
+	#'ethical-hacking-trojans-and-backdoors',
+	#'ethical-hacking-website-and-web-application-testing',
+	#'ethical-hacking-perimeter-defenses', #EX_Files_Perimeter_Defense_Handout
+	#'ethical-hacking-penetration-testing',
+
+
+#*** Master blenderr ***
+	#'blender-essential-training',
+	#'blender-hard-surface-modeling',
+	#'blender-character-rigging-with-blenrig',
+	#'sculpting-a-game-asset-in-blender',
+	#'texturing-a-game-asset-in-blender',
+	#'creating-a-finished-character-animation-in-blender',
+	#'blender-interior-environments-for-games',
+	#'modeling-a-motorcycle-in-blender',
+	#'creating-pbr-materials-with-blender-quixel',
+	#'learning-v-ray-3-0-for-blender',
+	#'v-ray-control-color-bleed-in-blender',
+	
+
+#Blender NEw
+#'blender-2-8-essential-training-2',
+#Inkscape
+#'inkscape-essential-training',
 
 #*** Become a Vanilla JavaScript Developer ***
     #'learning-app-building-with-vanilla-javascript',
